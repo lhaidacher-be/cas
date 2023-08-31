@@ -1,0 +1,8 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AutoCloseableResource" enabled="true" level="ERROR" enabled_by_default="true">
+      <option name="ignoredTypes" value="java.util.stream.Stream,java.util.stream.IntStream,java.util.stream.LongStream,java.util.stream.DoubleStream,org.apache.kafka.common.serialization.Serde,org.rocksdb.Options,org.apache.kafka.common.serialization.Deserializer,org.apache.kafka.common.serialization.Serializer" />
+    </inspection_tool>
+  </profile>
+</component>
